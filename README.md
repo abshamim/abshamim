@@ -1,6 +1,5 @@
 ![Frontend Developer | WordPress Expert](https://pbs.twimg.com/profile_banners/3136318364/1664086034/1500x500)
 
-
 # Hi, I'm Abdullah Al Shamim 👋
 ### Frontend Developer | WordPress Expert
 
