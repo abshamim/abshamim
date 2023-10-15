@@ -22,5 +22,3 @@ Skills: HTML / CSS / SASS / Bootstrap / Tailwind CSS / JavaScript / PHP / React
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abshamim)   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abshamim&show_icons=true&theme=radical)
-
