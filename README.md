@@ -24,9 +24,7 @@ I'm a professional WordPress developer. I build dynamic WordPress websites in an
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abshamim&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/abshamim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abshamim&repo=github-readme-stats" />
-</a>
+
 <a href="https://github.com/abshamim/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abshamim&repo=convoychat" />
 </a> 
