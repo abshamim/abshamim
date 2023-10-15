@@ -7,7 +7,7 @@
 
 I'm a professional WordPress developer. I build dynamic WordPress websites in any requirement. Now I fall in love with JavaScript, so recently I decided to learn React Js. I wants to be a frontend developer. I'm crazy about web development. I love to develop and design website. I feel that's actually my absolute passion.
 
-Skills: 
+## Skills: <br>
 ✅ HTML <br>
 ✅ CSS <br>
 ✅ SASS <br>
