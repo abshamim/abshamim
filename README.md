@@ -1,7 +1,7 @@
 ![Frontend Developer | WordPress Expert](https://pbs.twimg.com/profile_banners/3136318364/1664086034/1500x500)
 
 ## Hi, I'm Abdullah Al Shamim 👋
-#### 🏅 Frontend Developer
+🏅 Frontend Developer
 🏅 WordPress Expert
 🏅 Self Learner
 
@@ -31,4 +31,5 @@ Skills: HTML / CSS / SASS / Bootstrap / Tailwind CSS / JavaScript / PHP / React
 </a> 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abshamim)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abshamim)](https://github.com/abshamim/github-readme-stats)
 
