@@ -9,16 +9,12 @@ I'm a professional WordPress developer. I build dynamic WordPress websites in an
 
 ### `Skills & Experiences:`
 
-✅ WordPress
-✅ WordPress custom post types
-✅ Custom meta boxes
-✅ Custom taxonomy
-✅ WooCommerce
-✅ PHP
-✅ JavaScript
-✅ jQuery
-✅ Tailwind CSS
-✅ Bootstrap
+✅ WordPress <br>
+✅ Custom taxonomy <br>
+✅ WooCommerce <br>
+✅ PHP & JavaScript <br>
+✅ Tailwind CSS <br>
+✅ Bootstrap <br>
 ✅ HTML/CSS.
 
 <a href="https://github.com/abshamim/github-readme-stats">
